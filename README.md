@@ -23,3 +23,8 @@ This project demonstrates how to handle errors in a Kafka-based application usin
 ```bash
 git clone https://github.com/sakthiece08/kafka-error-handling.git
 cd kafka-error-handling
+```
+
+## Note
+* Need to run Docker Desktop and run Zookeeper and Kafka containers.
+* Docker compose for the same is available in the repo spring-boot-kafka
